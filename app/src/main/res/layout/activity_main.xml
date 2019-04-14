@@ -20,6 +20,8 @@
         android:layout_height="wrap_content"
         android:hint="@string/heighthere"
         android:id="@+id/val_height"
+        android:inputType="number"
+        android:textColorHint="@color/colorAccent"
         />
 
 
@@ -37,6 +39,8 @@
         android:layout_height="wrap_content"
         android:hint="@string/weighthere"
         android:id="@+id/val_weight"
+        android:inputType="number"
+        android:textColorHint="@color/colorAccent"
 
         />
 
